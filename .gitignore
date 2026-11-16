@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.local
+node_modules/
+dist/
+.vite/
+target/
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+*.pem
+*.key
+*.log
